@@ -1,0 +1,24 @@
+{
+  "name": "cowin-self-registration",
+  "version": "1.0.0",
+  "description": "Automatically register for selected hospitals for certain category",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ./bot.js localhost 5500"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resyfer/cowin-self-registration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resyfer/cowin-self-registration/issues"
+  },
+  "homepage": "https://github.com/resyfer/cowin-self-registration#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "readline-sync": "^1.4.10"
+  }
+}
