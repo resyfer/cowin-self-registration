@@ -1,4 +1,6 @@
-![img](https://img.shields.io/badge/NodeJS-16.3.0-brightgreen) ![img](https://img.shields.io/badge/License-GPL%203.0-blueviolet) ![img](https://img.shields.io/badge/Status-Under%20development-orange)
+![img](https://img.shields.io/badge/NodeJS-16.3.0-brightgreen) ![img](https://img.shields.io/badge/License-GPL%203.0-blueviolet) ![img](https://img.shields.io/badge/Status-Stopped%20development-red)
+
+Development has been abandoned because of this [issue](https://github.com/resyfer/cowin-self-registration/issues/2)
 
 # cowin-self-registration
 
@@ -11,8 +13,6 @@ NPM Packages : ![img](https://img.shields.io/badge/node--fetch-2.6.1-blue) ![img
 - [X] Connect API, GET data
 - [X] Repeated Calls to API (within limit)
 - [ ] Save config inputs for future
-- [ ] Automate appointments
-- [ ] Mail Appointment
 
 ## Development
 
